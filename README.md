@@ -19,7 +19,7 @@
   
   <tbody>
     <tr>
-      <td>**2020.3.15f2(64-bit)**</td>
+      <td>2020.3.15f2(64-bit)</td>
     </tr>
   </tbody>
 </table>
