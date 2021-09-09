@@ -24,4 +24,5 @@
   </tbody>
 </table>
 
-![Duelo](https://user-images.githubusercontent.com/78943325/132772786-8b0861c0-f747-4d2e-b10c-3b3a6efa12ef.gif)
+<span style="display:block;text-align:center">![Duelo](https://user-images.githubusercontent.com/78943325/132772786-8b0861c0-f747-4d2e-b10c-3b3a6efa12ef.gif)</span>
+
